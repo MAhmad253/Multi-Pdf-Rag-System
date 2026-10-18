@@ -1,0 +1,18 @@
+
+
+
+
+
+# Rag requiremants 
+pgvector
+pdfminer.six
+langchain-text-splitters
+langchain-huggingface
+transformers
+huggingface-hub
+python-dotenv
+
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
